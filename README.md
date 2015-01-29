@@ -9,7 +9,7 @@ Luckily, I had a copy of one of the magic html files, and it was released inder 
 To understand why this might be interesting at all, you MUST download the kanban.html file above, and open it in a browser. Then this will ALL make more sense. It's brilliant! Try it right now!!
 
 The end-goal is to develop a simple and effective kanban board for taskwarrior.org . 
-Using a UDA "state:" that defines what state (if any) a task is in, tasks could then be visually Drag and Dropped frome one state to another (from one "swimlane" or "story" to another) and using javascript interacting with task.
+Using a UDA "state:" that defines what state (if any) a task is in, tasks could then be visually Drag and Dropped frome one state to another (from one "swimlane" or "story" to another) and using javascript interacting with task, and changing the state:value accordingly.
 
 ![](https://raw.githubusercontent.com/linuxcaffe/Taskwarrior-Kanban/dev/kanban_screenshot1_small.png)
 
