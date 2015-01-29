@@ -1,7 +1,7 @@
 ## Taskwarrior-Kanban 
 (forked from Simple-Kanban)
 
-Simple Kanban is/was a single-html-file kanban board, written by Stephan Schmidt, and formerly hosted at http://scm.zoomquiet.io/data/20110709023400/index.html#Download and (now empty repository) https://github.com/StephanSchmidt/SimpleKanban. 
+Simple Kanban is/was a single-html-file kanban board, written by Stephan Schmidt, and formerly hosted at http://scm.zoomquiet.io/data/20110709023400/index.html and (now empty repository) https://github.com/StephanSchmidt/SimpleKanban. 
 There was only ever one release, and now the github repo has been cleared out, empty, and all the links are 404.
 
 Luckily, I had a copy of one of the magic html files, and it was released inder the MIT license, and so I'm taking the liberty of preserving it, and hoping to develop from it into a taskwarrior-specific thing.
