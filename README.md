@@ -6,7 +6,7 @@ There was only ever one release, and now the github repo has been cleared out, e
 
 Luckily, I had a copy of one of the magic html files, and it was released inder the MIT license, and so I'm taking the liberty of preserving it, and hoping to develop from it into a taskwarrior-specific thing.
 
-To understand why this might be interesting at all, you MUST download the kanban.html file above, and open it in a browser. Then this will ALL make more sense. It's brilliant!
+To understand why this might be interesting at all, you MUST download the kanban.html file above, and open it in a browser. Then this will ALL make more sense. It's brilliant! Try it right now!!
 
 The end-goal is to develop a simple and effective kanban board for taskwarrior.org . 
 Using a UDA "state:" that defines what state (if any) a task is in, tasks could then be visually Drag and Dropped frome one state to another (from one "swimlane" or "story" to another) and using javascript interacting with task.
