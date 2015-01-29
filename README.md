@@ -1,5 +1,5 @@
 ## Taskwarrior-Kanban 
-(formerly Simple-Kanban)
+(forked from Simple-Kanban)
 
 Simple Kanban is/was a single-html-file kanban board, written by Stephan Schmidt, and formerly hosted at http://scm.zoomquiet.io/data/20110709023400/index.html#Download and (now empty repository) https://github.com/StephanSchmidt/SimpleKanban. 
 There was only ever one release, and now the github repo has been cleared out, empty, and all the links are 404.
