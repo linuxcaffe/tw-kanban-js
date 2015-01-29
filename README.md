@@ -8,7 +8,8 @@ To understand why this might be interesting at all, you MUST download the kanban
 The end-goal is to develop a simple and effective kanban board for taskwarrior.org . 
 Using a UDA "state:" that defines what state (if any) a task is in, tasks could then be visually Drag and Dropped frome one state to another (from one "swimlane" or "story" to another) and using javascript interacting with task.
 
-### Original Docs below ---->
+----
+### Original Docs
 
 
 <html>
